@@ -1,0 +1,187 @@
+[33mcommit 5d8d3de3e53317738d43fff458f577ef960dfdc0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Dmitriy Korolev <59607937+KaramazovBrothers@users.noreply.github.com>
+Date:   Tue May 17 11:10:22 2022 +0200
+
+    new line 1
+
+[33mcommit 3ae06ae46a94be6402308e00fd67566485adc69a[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 14:26:49 2022 +0200
+
+    new line for GUI
+
+[33mcommit 54c52d27e10b374fb41fc48adad6309d6dfc3472[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 14:17:28 2022 +0200
+
+    hh
+
+[33mcommit a951c8bc43c8bb1ad61499394102811ea4c4e9fe[m
+Merge: bc0162d 4ead9b8
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 13:22:17 2022 +0200
+
+    upproved new file
+
+[33mcommit bc0162d60597d8b6a1578ddb24d2630216edf490[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 13:17:55 2022 +0200
+
+    new file update
+
+[33mcommit b7a6b907f7115d39f78cac1dff57605403b53dff[m[33m ([m[1;31morigin/four_branch[m[33m, [m[1;32mfour_branch[m[33m)[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 13:06:41 2022 +0200
+
+    edit 2022
+
+[33mcommit 4ead9b87a3fc5e4fc0092eb4d0ffc349e5daecd3[m
+Author: Dmitriy Korolev <59607937+KaramazovBrothers@users.noreply.github.com>
+Date:   Mon May 16 13:05:16 2022 +0200
+
+    Update new.file
+
+[33mcommit 99fcdf59be167cda59b21249a64d4793f03e0e41[m
+Author: Dmitriy Korolev <59607937+KaramazovBrothers@users.noreply.github.com>
+Date:   Mon May 16 13:01:15 2022 +0200
+
+    update new file 3
+
+[33mcommit 3f341677e897093135b4bb9799c3aa9c05fa8d23[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 12:59:08 2022 +0200
+
+    new line 2021
+
+[33mcommit bb144e3d0b9db0f351b4c7bd2c686a1e77305a6d[m
+Merge: d482a9e fdc2cd3
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 12:55:08 2022 +0200
+
+    Merge branch 'main' of https://github.com/KaramazovBrothers/Git-for-QA-test
+
+[33mcommit d482a9e0cbdbd2f8ec5d146f52e0436077ee5ef4[m[33m ([m[1;31morigin/new_file_edit[m[33m, [m[1;32mnew_file_edit[m[33m)[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 12:53:29 2022 +0200
+
+    edit2021
+
+[33mcommit fdc2cd3471dd270b0eb6e6093d1c822f2e14c2f8[m
+Author: Dmitriy Korolev <59607937+KaramazovBrothers@users.noreply.github.com>
+Date:   Mon May 16 12:50:44 2022 +0200
+
+    update new line 2022
+
+[33mcommit 9a523894d110642cf56f5ebc9f4a32acb80ada2f[m
+Merge: 03eb648 482149b
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 12:40:48 2022 +0200
+
+    Merge branch 'main' of https://github.com/KaramazovBrothers/Git-for-QA-test
+
+[33mcommit 03eb648506ba137873349b735736d39cc9a66403[m[33m ([m[1;31morigin/third_branch[m[33m, [m[1;32mthird_branch[m[33m)[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 12:38:57 2022 +0200
+
+    add second.file
+
+[33mcommit 482149b731c353f425c389079bb9b5b36ea2adb6[m
+Author: Dmitriy Korolev <59607937+KaramazovBrothers@users.noreply.github.com>
+Date:   Mon May 16 12:34:27 2022 +0200
+
+    conflict branch info
+
+[33mcommit 21fd20ab56e4d8f3263be5a0180869690f72595e[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 12:26:03 2022 +0200
+
+    new line 2
+
+[33mcommit 3d20bc5b8839e44809b5d2ab51adae5491ba4635[m
+Merge: 5a922f5 e80e873
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 12:18:13 2022 +0200
+
+    new branch 1
+
+[33mcommit e80e87364f343e78a2a3d46e1a52c0075f95359a[m[33m ([m[1;31morigin/first_branch[m[33m, [m[1;32mfirst_branch[m[33m)[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 12:00:18 2022 +0200
+
+    new branch commit
+
+[33mcommit 5a922f546b57ac7641b8e222132b0ec0476f826f[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 11:55:09 2022 +0200
+
+    conflict new commit
+
+[33mcommit 8f50642b83e8828ade3970e020666de33bc9630a[m
+Merge: 25cfae0 5f608f1
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 11:06:02 2022 +0200
+
+    test
+
+[33mcommit 25cfae0f28801d34e64bf29d1d18b8b888d028c4[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 10:59:34 2022 +0200
+
+    test line conflict
+
+[33mcommit 5f608f1980806fdf0cc7ec10698c4ffa23a08ee3[m
+Author: Dmitriy Korolev <59607937+KaramazovBrothers@users.noreply.github.com>
+Date:   Mon May 16 10:50:36 2022 +0200
+
+    Update File1.txt
+
+[33mcommit 6f4059d925eb4f8790517140a4fdca642ccfe2fb[m
+Merge: be45120 2eb024e
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 10:41:51 2022 +0200
+
+    Merge branch 'main' of https://github.com/KaramazovBrothers/Git-for-QA-test
+
+[33mcommit 2eb024edc98dc34b9442694dbd95856f3207463f[m
+Author: Dmitriy Korolev <59607937+KaramazovBrothers@users.noreply.github.com>
+Date:   Mon May 16 10:40:51 2022 +0200
+
+    Create conflict
+
+[33mcommit be45120304d1e2d5f7f5d7315d367614d6f5eab9[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 09:34:30 2022 +0200
+
+    test
+
+[33mcommit 8b6604621ac215b445082e4185ea85b3336a3843[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Mon May 16 09:31:19 2022 +0200
+
+    new commit1
+
+[33mcommit cf21df2ef0905f3153a9d97929ec42f154f92ccb[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Sun May 8 20:16:26 2022 +0200
+
+    new commit
+
+[33mcommit f6ebcee2d6acb83bdcfcf828646382ee813c0798[m
+Author: Dmitriy Korolev <59607937+KaramazovBrothers@users.noreply.github.com>
+Date:   Sun May 8 19:01:56 2022 +0200
+
+    Update File1.txt
+    
+    adding the new line
+
+[33mcommit 3f6164b865bcb8880ee3e185e625f087e75a34c9[m
+Author: Dmitriy Korolev <59607937+KaramazovBrothers@users.noreply.github.com>
+Date:   Sun May 8 19:00:47 2022 +0200
+
+    Update File1.txt
+
+[33mcommit 444a0b1b2c62f592c2e4b1e4dcb060a6b33c17ec[m
+Author: KorolevDV <law.korolev@gmail.com>
+Date:   Fri May 6 14:04:00 2022 +0200
+
+    test commit 1
