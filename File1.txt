@@ -7,3 +7,4 @@ commit test
 add line2
 new branch line
 line from echo
+line to merge1
