@@ -9,4 +9,4 @@ new branch line
 new line 2
 new line for GUI
 line from echo
-
+line to merge1
